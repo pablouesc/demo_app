@@ -1,0 +1,6 @@
+1370379571
+Application	/home/pablo/rails_projects/demo_app/config/application.rb	  class Application 
+ApplicationController	/home/pablo/rails_projects/demo_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/pablo/rails_projects/demo_app/app/helpers/application_helper.rb	module ApplicationHelper
+DemoApp	/home/pablo/rails_projects/demo_app/config/application.rb	module DemoApp
+TestCase	/home/pablo/rails_projects/demo_app/test/test_helper.rb	class ActiveSupport::TestCase
